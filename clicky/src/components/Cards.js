@@ -1,8 +1,8 @@
 const Cards = {
-    card1: {
-        name: 'Three\'s Company',
-        image: '../images/threes_company.jpg'
-    },
+    // card1: {
+    //     name: 'Three\'s Company',
+    //     image: '../images/threes_company.jpg'
+    // },
 
     card2: {
         name: '',
