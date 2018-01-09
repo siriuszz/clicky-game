@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "The Jeffersons",
+    "image": "https://i.ytimg.com/vi/92T1UdbkxHY/hqdefault.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Facts of Life",
+    "image": "https://images2.houstonpress.com/imager/u/original/6381505/nbc_sitcoms.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Three's Company",
+    "image": "http://cdn.skim.gs/image/upload/v1456343408/msi/pet-names-inspired-by-80s-sitcoms-threes-company_puqf11.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Growing Pains",
+    "image": "https://s3.amazonaws.com/pq-imgs/images/quizzes/growing-pains.jpg-3140.jpg"
+  },
+  {
+    "id": 5,
+    "name": "A Different World",
+    "image": "https://3.bp.blogspot.com/-pwT3BbAH5l4/VwlnTPOIuZI/AAAAAAAAGBk/PZs0jVAOdcAy6HDS5jyE22RbaavVloMvA/s1600/slideshow-best-black-sitcoms-cover.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Cheers",
+    "image": "https://i.kinja-img.com/gawker-media/image/upload/s--giF0CsIb--/c_scale,fl_progressive,q_80,w_800/qubunfj0e74daeacelfi.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Family Ties",
+    "image": "http://www.mamamaryshow.com/wp-content/uploads/2010/11/FamilyTies.png"
+  },
+  {
+    "id": 8,
+    "name": "Blossom",
+    "image": "http://img.playbuzz.com/image/upload/f_auto,fl_lossy,q_auto/cdn/a4cb18ae-b5df-4452-87a3-0100d7b4114c/ee24ecd0-18c5-43fb-80fe-23bfa0133ce7.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Seinfeld",
+    "image": "http://images.fanpop.com/images/image_uploads/Seinfeld-seinfeld-395644_360_306.jpg"
+  },
+  {
+    "id": 10,
+    "name": "The Fresh Prince of Bel Air",
+    "image": "http://s2.r29static.com//bin/entry/e72/410x492,80/1661796/image.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Living Single",
+    "image": "https://ic.pics.livejournal.com/liewitnessnews/59331440/25760/25760_900.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Friends",
+    "image": "https://meganfon397ss.files.wordpress.com/2008/11/friends2.jpg"
+  }
+]
