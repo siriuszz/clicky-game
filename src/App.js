@@ -2,6 +2,9 @@ import React from "react";
 import Header from "./components/Header";
 import Card from "./components/Card";
 import cards from "./cards.json";
+import "./styles/App.css";
+import "./styles/Card.css";
+
 
 
 class App extends React.Component {
