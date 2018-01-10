@@ -12,16 +12,4 @@ class GameBoard extends React.Component {
     }
 };
 
-
-// class GameBoard extends React.Component {
-//     render () {
-//         return (
-//             <div>
-//                 <h1>This is the gameboard.</h1>
-//                 <Cards />
-//             </div>
-//         )
-//     }
-// };
-
 export default GameBoard;
